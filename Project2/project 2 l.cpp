@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-
+// Aleksander Wawrzyniec i Kacper Kaźmierczak
 using namespace std;
 
 int main()
