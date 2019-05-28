@@ -1,0 +1,9 @@
+﻿  Źródło.cpp
+c:\users\sala_5_08\source\repos\project7\project7\źródło.cpp(5): error C2146: błąd składniowy: brakuje „)” przed identyfikatorem „max”
+c:\users\sala_5_08\source\repos\project7\project7\źródło.cpp(5): error C3646: "max": nieznany specyfikator przesłonięcia
+c:\users\sala_5_08\source\repos\project7\project7\źródło.cpp(5): error C2059: błąd składniowy: „stała”
+c:\users\sala_5_08\source\repos\project7\project7\źródło.cpp(5): error C2059: błąd składniowy: „)”
+c:\users\sala_5_08\source\repos\project7\project7\źródło.cpp(6): error C2143: błąd składniowy: brakuje „;” przed „{”
+c:\users\sala_5_08\source\repos\project7\project7\źródło.cpp(6): error C2447: "{": brak nagłówka funkcji (stary styl formalnej listy?)
+c:\users\sala_5_08\source\repos\project7\project7\źródło.cpp(37): error C2664: „void Switch(char)”: nie można dokonać konwersji argumentu 1 z „char [100]” do „char”
+  c:\users\sala_5_08\source\repos\project7\project7\źródło.cpp(37): note: Brak kontekstu, w którym ta konwersja jest możliwa
